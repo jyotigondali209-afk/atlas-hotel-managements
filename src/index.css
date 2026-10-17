@@ -1,0 +1,6 @@
+html { min-width: 320px; min-height: 100%; background: #f2f5f1; }
+body { min-width: 320px; min-height: 100vh; margin: 0; }
+body, button, input, select { font-family: 'DM Sans', sans-serif; }
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid #6d9277; outline-offset: 2px; }
+::selection { color: #fff; background: #456d53; }
+#root { min-height: 100vh; }
